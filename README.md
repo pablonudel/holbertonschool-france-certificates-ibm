@@ -1,1 +1,1 @@
-<h1>IBM Certificates</br>Holberton School</h1>
+<p style={color = #00ff00}>IBM Certificates</p>
