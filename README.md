@@ -1,2 +1,1 @@
-<h1>IBM Certificates</h1>
-<h2>Holberton School</h2>
+<h1>IBM Certificates</br>Holberton School</h1>
